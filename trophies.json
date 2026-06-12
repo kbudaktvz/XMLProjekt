@@ -1,0 +1,60 @@
+{
+  "team": "Real Madrid CF",
+  "total_trophies": 99,
+  "trophies": [
+    {
+      "id": 1,
+      "name": "UEFA Champions League",
+      "count": 15,
+      "last_won": 2024,
+      "category": "European",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg",
+      "description": "The most prestigious club competition in European football. Real Madrid are the most decorated club in the tournament's history."
+    },
+    {
+      "id": 2,
+      "name": "La Liga",
+      "count": 36,
+      "last_won": 2024,
+      "category": "Domestic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/LaLiga_logo_2023.svg/800px-LaLiga_logo_2023.svg.png",
+      "description": "Spain's top-flight football division. Real Madrid hold the record for the most La Liga titles ever won."
+    },
+    {
+      "id": 3,
+      "name": "Copa del Rey",
+      "count": 20,
+      "last_won": 2023,
+      "category": "Domestic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Copa_del_Rey_logo.svg/800px-Copa_del_Rey_logo.svg.png",
+      "description": "Spain's primary knockout cup competition. Real Madrid are the joint record holders along with Barcelona."
+    },
+    {
+      "id": 4,
+      "name": "FIFA Club World Cup",
+      "count": 8,
+      "last_won": 2025,
+      "category": "International",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/FIFA_Club_World_Cup_logo.svg/800px-FIFA_Club_World_Cup_logo.svg.png",
+      "description": "The premier international club competition. Real Madrid have dominated the tournament since its modern inception."
+    },
+    {
+      "id": 5,
+      "name": "UEFA Super Cup",
+      "count": 6,
+      "last_won": 2022,
+      "category": "European",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/UEFA_Super_Cup_logo.svg/600px-UEFA_Super_Cup_logo.svg.png",
+      "description": "Contested between the Champions League and Europa League winners each season."
+    },
+    {
+      "id": 6,
+      "name": "Supercopa de España",
+      "count": 13,
+      "last_won": 2024,
+      "category": "Domestic",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Supercopa_de_Espa%C3%B1a_logo.svg/800px-Supercopa_de_Espa%C3%B1a_logo.svg.png",
+      "description": "The Spanish Super Cup, traditionally contested between La Liga and Copa del Rey winners."
+    }
+  ]
+}

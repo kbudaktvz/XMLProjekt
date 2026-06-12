@@ -1,0 +1,268 @@
+{
+  "team": "Real Madrid CF",
+  "season": "2025/26",
+  "stadium": "Santiago Bernabéu",
+  "players": [
+    {
+      "id": 1,
+      "name": "Thibaut Courtois",
+      "number": 1,
+      "position": "Goalkeeper",
+      "nationality": "Belgium",
+      "age": 33,
+      "image": "assets/courtois.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dani Carvajal",
+      "number": 2,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 33,
+      "image": "assets/carvajal.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Éder Militão",
+      "number": 3,
+      "position": "Defender",
+      "nationality": "Brazil",
+      "age": 27,
+      "image": "assets/militao.jpg"
+    },
+    {
+      "id": 4,
+      "name": "David Alaba",
+      "number": 4,
+      "position": "Defender",
+      "nationality": "Austria",
+      "age": 32,
+      "image": "assets/alaba.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Jude Bellingham",
+      "number": 5,
+      "position": "Midfielder",
+      "nationality": "England",
+      "age": 22,
+      "image": "assets/bellingham.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Fran González",
+      "number": 26,
+      "position": "Goalkeeper",
+      "nationality": "Spain",
+      "age": 20,
+      "image": "assets/gonzalez.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Vinícius Júnior",
+      "number": 7,
+      "position": "Forward",
+      "nationality": "Brazil",
+      "age": 24,
+      "image": "assets/junior.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Raúl Asencio",
+      "number": 17,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 23,
+      "image": "assets/asencio.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Álvaro Carreras",
+      "number": 18,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 23,
+      "image": "assets/carreras.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Fran García",
+      "number": 20,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 26,
+      "image": "assets/garcia.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Rodrygo",
+      "number": 11,
+      "position": "Forward",
+      "nationality": "Brazil",
+      "age": 24,
+      "image": "assets/rodrygo.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Eduardo Camavinga",
+      "number": 12,
+      "position": "Midfielder",
+      "nationality": "France",
+      "age": 22,
+      "image": "assets/camavinga.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Ferland Mendy",
+      "number": 23,
+      "position": "Defender",
+      "nationality": "France",
+      "age": 31,
+      "image": "assets/mendy.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Aurélien Tchouaméni",
+      "number": 14,
+      "position": "Midfielder",
+      "nationality": "France",
+      "age": 24,
+      "image": "assets/tchouameni.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Federico Valverde",
+      "number": 15,
+      "position": "Midfielder",
+      "nationality": "Uruguay",
+      "age": 26,
+      "image": "assets/valverde.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Trent Alexander-Arnold",
+      "number": 12,
+      "position": "Defender",
+      "nationality": "England",
+      "age": 27,
+      "image": "assets/arnold.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Thiago Pitarch",
+      "number": 45,
+      "position": "Midfielder",
+      "nationality": "Spain",
+      "age": 18,
+      "image": "assets/pitarch.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Jorge Cestero",
+      "number": 28,
+      "position": "Midfielder",
+      "nationality": "Spain",
+      "age": 20,
+      "image": "assets/cestero.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Manuel Ángel",
+      "number": 37,
+      "position": "Midfielder",
+      "nationality": "Spain",
+      "age": 22,
+      "image": "assets/angel.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Fran García",
+      "number": 20,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 25,
+      "image": "assets/ggarcia.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Brahim Díaz",
+      "number": 21,
+      "position": "Forward",
+      "nationality": "Spain",
+      "age": 25,
+      "image": "assets/diaz.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Antonio Rüdiger",
+      "number": 22,
+      "position": "Defender",
+      "nationality": "Germany",
+      "age": 31,
+      "image": "assets/rudiger.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Dani Ceballos",
+      "number": 19,
+      "position": "Midfielder",
+      "nationality": "Spain",
+      "age": 29,
+      "image": "assets/ceballos.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Andriy Lunin",
+      "number": 24,
+      "position": "Goalkeeper",
+      "nationality": "Ukraine",
+      "age": 25,
+      "image": "assets/lunin.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Kylian Mbappé",
+      "number": 9,
+      "position": "Forward",
+      "nationality": "France",
+      "age": 26,
+      "image": "assets/mbappe.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Dean Huijsen",
+      "number": 24,
+      "position": "Defender",
+      "nationality": "Spain",
+      "age": 21,
+      "image": "assets/huijsen.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Franco Mastantuono",
+      "number": 30,
+      "position": "Forward",
+      "nationality": "Argentina",
+      "age": 18,
+      "image": "assets/mastantuono.jpg"
+    },
+    {
+      "id": 28,
+      "name": "César Palacios",
+      "number": 38,
+      "position": "Midfielder",
+      "nationality": "Spain",
+      "age": 21,
+      "image": "assets/palacios.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Arda Guler",
+      "number": 15,
+      "position": "Midfielder",
+      "nationality": "Turkiye",
+      "age": 21,
+      "image": "assets/guler.jpg"
+    }
+  ]
+}
